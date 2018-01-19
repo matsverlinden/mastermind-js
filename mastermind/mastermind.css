@@ -1,0 +1,60 @@
+#game button, #bottom button{
+	border-radius: 25px;
+	width: 50px;
+	height: 50px;
+	
+}
+#game {
+	height: 200px;
+	position: fixed;
+	left: 630px;
+	top: 200px;
+}
+#bottom {
+	width: 30px;
+	height: 700px;
+	position: fixed;
+	left: 890px;
+	top: 150px;
+	border-left: 2px solid black;
+	padding-left: 10px;
+	padding-top: 15px;
+	
+}
+body {
+	background-image: url(bg2.jpg);
+	background-size: 1200px 780px;
+	background-attachment: fixed;
+}
+header {
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 400px;
+	height: 658px;
+	position: fixed;
+	left: 570px;
+	top: 150px;
+}
+#plaatje {
+	position: fixed;
+	top: 5px;
+	right: 390px;
+}
+#wolkie{
+	position: absolute;
+	left: 230px;
+	top: 150px;
+}
+
+#rood button{
+	border-radius: 25px;
+	width: 10px;
+	height: 17px;
+	background-color: red;
+}
+#rood {
+	position: absolute;
+	left: 575px;
+	top: 200px;
+	width: 10px;
+
+}
